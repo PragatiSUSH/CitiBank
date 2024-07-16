@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Thinkpad
- *
- */
-module DemoTest {
-}
